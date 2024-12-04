@@ -1,0 +1,42 @@
+div{
+    padding: 50px;
+    text-align: center;
+    font-family: tahoma;
+    border-bottom: 1px solid #D5D5D5;
+    color: #000000
+}
+
+h1{
+    font-size: 32px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+img{
+    width: 190px;
+}
+
+p{
+    font-size: 16px;
+    width: 930px;
+    margin: 15px auto 30px auto;
+    }
+
+a{
+    font-size: 14px;
+    border-radius: 25px;
+    padding: 10px 30px;
+    background-color: #49B970;
+    color: #F5F5F5;
+    text-decoration: none;
+    }
+
+span{
+    font-weight: bold;
+}
